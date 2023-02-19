@@ -1,0 +1,125 @@
+body   {
+  
+    margin-top:0px;
+    border: 1px solid #e0dfdf;
+
+ background-color:#232527;
+}
+
+ 
+#header{
+  width: 1120px;
+    margin:0 auto;
+    background-color:#191b1d;
+     border: 1px solid #380909;
+     border-right:1px solid #fff;
+ border-left:1px solid #fff;
+  border-bottom:1px solid #d18686;
+ box-sizing:border-box;
+
+}
+
+.school{
+margin:10px 20px;
+    color:#20e93c;
+    font-size:25px;
+    font-weight:600;
+}
+
+.project{margin:2px 0px;color:#f8eaea;font-size: 15px;}
+
+table{
+  font-size: 15px;
+}
+
+td{
+
+  border:1px solid #eceaea;
+  padding: 2px;
+  
+
+}
+#content {
+    width: 1120px;
+    max-width:1120px;
+    height:850px;
+    margin: 4px auto;
+    background-color:#f9f9f9;
+    padding-top: 5px;
+}
+.functions br {  }
+.functions{
+
+height: 634px;
+
+max-height: 690px;
+
+overflow:scroll;
+color:#0e2a05;
+br {padding:3px; margin:2px; display:block;
+}
+
+}
+.authors{
+  padding:6px;
+  background-color:#4d2020;
+  color:#fff;
+  /* font-family: Impact,Arial,Lucida Grande,sans-serif; */
+ 
+  line-height:24px;
+  height:26px;
+  width:97%;
+  margin:1px auto;
+}
+
+.authors span{
+  margin-left:5px;
+ 
+  color:#e3dddd;
+  
+}
+
+
+
+div {
+    /* border: 1px solid #ddedd5; */
+    /* min-height: 30px; */
+    /* overflow: auto; */
+    /* margin: 10px auto; */
+}
+
+Canvas    {
+    border: 1px solid #bfd3c2;
+    /* padding:5px; */
+}
+
+input {
+    max-width: 50px;
+    margin:1px;
+    min-height:24px;
+}
+
+.stat {
+    /* float:right; */
+    color:#198b27;
+    /* width:150px; */
+    /* height:80px; */
+}
+
+.go{
+
+margin: 10px 10px;
+
+padding:  4px 15px;
+
+/* width: 5px; */
+}
+
+
+
+ 
+select {
+    padding:2px;
+    margin:4px;
+    width:250px;
+}
